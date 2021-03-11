@@ -1,0 +1,14 @@
+let minions = `
+[
+    {"id":1,"first_name":"Kendrick","last_name":"Woodus","email":"kwoodus0@ycombinator.com","job_title":"Accounting Assistant II","salary":"€25303,54"},
+    {"id":2,"first_name":"Kass","last_name":"Bearham","email":"kbearham1@lulu.com","job_title":"Associate Professor","salary":"€15952,75"},
+    {"id":3,"first_name":"Ibby","last_name":"Aherne","email":"iaherne2@xing.com","job_title":"Health Coach III","salary":"€25284,82"},
+    {"id":4,"first_name":"Hester","last_name":"Flockhart","email":"hflockhart3@ucsd.edu","job_title":"Physical Therapy Assistant","salary":"€20103,56"},
+    {"id":5,"first_name":"Florrie","last_name":"Karpfen","email":"fkarpfen4@latimes.com","job_title":"Internal Auditor","salary":"€23935,40"},
+    {"id":6,"first_name":"Sherwood","last_name":"Eglaise","email":"seglaise5@altervista.org","job_title":"Payment Adjustment Coordinator","salary":"€22357,51"},
+    {"id":7,"first_name":"Caddric","last_name":"Hannibal","email":"channibal6@unc.edu","job_title":"VP Accounting","salary":"€20552,98"},
+    {"id":8,"first_name":"Nancey","last_name":"Gonthard","email":"ngonthard7@google.com","job_title":"Research Assistant I","salary":"€21278,81"},
+    {"id":9,"first_name":"Yves","last_name":"Brignell","email":"ybrignell8@shinystat.com","job_title":"Registered Nurse","salary":"€20219,86"},
+    {"id":10,"first_name":"Craggy","last_name":"Spaduzza","email":"cspaduzza9@mlb.com","job_title":"Paralegal","salary":"€23444,43"}
+]
+`
