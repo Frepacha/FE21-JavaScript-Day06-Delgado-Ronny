@@ -1,0 +1,13 @@
+let bookshelf = `
+[
+    {"title":"Earthquake","author_firstname":"Odessa","author_lastname":"Terbrug","isbn":"977982740-4","read":false,"image":"http://dummyimage.com/138x113.bmp/ff4444/ffffff"},
+    {"title":"Story of Xinghua, The (Xinghua san yue tian)","author_firstname":"Caitlin","author_lastname":"Feakins","isbn":"384648094-0","read":false,"image":"http://dummyimage.com/249x210.png/cc0000/ffffff"},
+    {"title":"In the Mood For Love (Fa yeung nin wa)","author_firstname":"Shelley","author_lastname":"Bennedick","isbn":"888173930-5","read":false,"image":"http://dummyimage.com/158x158.png/cc0000/ffffff"},
+    {"title":"Little White Lies (Les petits mouchoirs)","author_firstname":"Becka","author_lastname":"Ettels","isbn":"264748671-9","read":true,"image":"http://dummyimage.com/180x103.png/5fa2dd/ffffff"},
+    {"title":"Barnens ö","author_firstname":"Katlin","author_lastname":"Tardiff","isbn":"457215945-9","read":false,"image":"http://dummyimage.com/160x143.bmp/dddddd/000000"},
+    {"title":"My Last Five Girlfriends","author_firstname":"Demetris","author_lastname":"Dark","isbn":"422026885-5","read":true,"image":"http://dummyimage.com/238x199.bmp/5fa2dd/ffffff"},
+    {"title":"Romance","author_firstname":"Nessy","author_lastname":"Whicher","isbn":"717054506-3","read":true,"image":"http://dummyimage.com/206x249.jpg/dddddd/000000"},
+    {"title":"Samson and Delilah","author_firstname":"Gayel","author_lastname":"Addyman","isbn":"002875932-X","read":true,"image":"http://dummyimage.com/101x122.png/cc0000/ffffff"},
+    {"title":"Citizen Koch","author_firstname":"Hagen","author_lastname":"Hirtz","isbn":"913096339-7","read":false,"image":"http://dummyimage.com/207x190.bmp/ff4444/ffffff"},
+    {"title":"All About Actresses (Le bal des actrices)","author_firstname":"Horatia","author_lastname":"Reucastle","isbn":"887197878-1","read":false,"image":"http://dummyimage.com/224x173.jpg/ff4444/ffffff"}
+]`
